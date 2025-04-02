@@ -1,0 +1,5 @@
+# Experimental AI Lab
+
+AI systems have become deeply embedded in our everyday lives and are increasingly shaping our ideas of society, the world and ourselves. We want to experience and reflect on this ongoing process of AI-based worlding, shaped by data colonialism and generated/generating world models, through artistic research and aesthetic experiments.
+
+The aim of the course is a deeper exploration of AI technologies. To this end, in the first half of the course we will get to know various technologies together in workshops and explore them experimentally. The second half of the course is dedicated to the individual development of a project based on the workshops, which can ideally be shown during the tour of the AI Lab. In the workshops we will deal with tokens and prompting, LLMs, fine-tuning, chatbots and interfaces, image generation and embeddings, video generation, etc.
