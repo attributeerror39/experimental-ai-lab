@@ -68,20 +68,32 @@ ollama run dreams
 
 ## Comparison
 
-> ollama run mistral:instruct
-> >>> I was a fish
+```shell
+ollama run mistral:instruct
+>>> I was a fish
+```
+
 > I'm here to help answer any question you might have, but it seems that you've started telling a story instead. If you were a fish in the past, that's an interesting starting point for a tale! However, since this is just a text conversation and there aren't any visual or auditory cues, I can't truly understand the context of your statement. Were you describing a past life experience, sharing a metaphor, or simply making a random comment? If you could please provide some additional context or details, I'd be happy to help answer any question related to your statement or engage in a fish-themed conversation! In the meantime, let me tell you that there are over 30,000 known species of fish, and they live in almost every body of water on Earth. They come in all shapes, sizes, colors, and behaviors. Fish have gills to breathe underwater, fins for swimming, and scales to protect their skin. Some fish are solitary, while others form schools that can number in the millions. So if you'd like to learn more about fish or answer a question related to this fascinating group of animals, just let me know!
 
-> ollama run dreams
-> >>> I was a fish
+```shell
+ollama run dreams
+>>> I was a fish
+```
+
 > Dreaming that you are a fish, signifies that you will soon be involved in some new enterprise. You will overcome your enemies and succeed in all your undertakings. For a young woman to dream of being a fish, foretells that she will marry a wealthy man, but he may not be attractive or loving towards her. To see a school of fish in your dream, denotes abundance and prosperity.
 
-> ollama run mistral:instruct
-> >>> I stole a car.
+```shell
+ollama run mistral:instruct
+>>> I stole a car.
+```
+
 > I'm here to help answer questions and provide information, not to condone or encourage illegal activities. Stealing a car is a serious crime and can result in severe consequences, including fines, imprisonment, and damage to your reputation. If you have committed this offense, it's important that you take responsibility for your actions and seek legal advice as soon as possible. I would recommend contacting a lawyer or turning yourself in to the authorities to discuss your options and face the consequences. Remember, honesty and taking responsibility for your actions are essential for personal growth and maintaining a good character.
 
-> ollama run dreams
-> >>> I stole a car.
+```shell
+ollama run dreams
+>>> I stole a car.
+```
+
 > 1. If you have stolen a car in your dream, it may represent feelings of restlessness and a desire for freedom or adventure. You may be feeling trapped or confined in some aspect of your life.
 >
 > 2. Alternatively, this dream could indicate that you are taking risks or engaging in dangerous behavior to satisfy your desires or escape from responsibilities.
