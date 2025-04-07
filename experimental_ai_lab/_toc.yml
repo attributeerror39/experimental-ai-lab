@@ -5,3 +5,10 @@ format: jb-book
 root: intro
 chapters:
 - file: image_generation_embeddings
+- file: llm 
+  sections: 
+    - file: ollama_start
+    - file: unsloth_dreams
+    - file: dataset_dreams.ipynb
+    - file: ollama_adapter
+- file: interface
