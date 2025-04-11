@@ -9,6 +9,10 @@ chapters:
   sections: 
     - file: ollama_start
     - file: unsloth_dreams
-    - file: dataset_dreams.ipynb
+    - file: dataset_dreams
+    - file: dataset_beer
+    - file: unsloth_beer
     - file: ollama_adapter
+    - file: unsloth_manifesto
+    - file: dataset_manifesto
 - file: interface
