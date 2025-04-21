@@ -3,3 +3,116 @@
 AI systems have become deeply embedded in our everyday lives and are increasingly shaping our ideas of society, the world and ourselves. We want to experience and reflect on this ongoing process of AI-based worlding, shaped by data colonialism and generated/generating world models, through artistic research and aesthetic experiments.
 
 The aim of the course is a deeper exploration of AI technologies. To this end, in the first half of the course we will get to know various technologies together in workshops and explore them experimentally. The second half of the course is dedicated to the individual development of a project based on the workshops, which can ideally be shown during the tour of the AI Lab. In the workshops we will deal with tokens and prompting, LLMs, fine-tuning, chatbots and interfaces, image generation and embeddings, video generation, etc.
+
+## Gregor Weichbrodt — Eine Liste (2020)
+
+[Project page](https://gregorweichbrodt.de/project/eine-liste-bot/)
+
+```{margin}
+Gregor Weichbrodt — Eine Liste (2020)<br>
+Bot, Website
+```
+
+![Gregor Weichbrodt — Eine Liste (2020)](img/GregorWeichbrodt_Eine-Liste_1.jpg)
+
+<br>
+
+```{margin}
+Gregor Weichbrodt — Eine Liste (2020)<br>
+Bot, Website
+```
+
+![Gregor Weichbrodt — Eine Liste (2020)](img/GregorWeichbrodt_Eine-Liste_2.jpg)
+
+<br>
+
+> Searches current news texts for countable items and generates lists.
+
+<br>
+
+## Lauren Lee McCarthy — LAUREN (2017-)
+
+[Project page](https://lauren-mccarthy.com/LAUREN)
+
+```{margin}
+Lauren Lee McCarthy — LAUREN (2017-)<br>
+Objects
+```
+
+![Lauren Lee McCarthy — LAUREN (2017-)](img/Lauren-Lee-McCarthy_LAUREN_Objects.jpg)
+
+<br>
+
+```{margin}
+Lauren Lee McCarthy — LAUREN (2017-)<br>
+Interface
+```
+
+![Lauren Lee McCarthy — LAUREN (2017-)](img/Lauren-Lee-McCarthy_LAUREN_Interface.jpg)
+
+<br>
+
+```{margin}
+Lauren Lee McCarthy — LAUREN (2017-)<br>
+Installation View Frankfurter Kunstverein<br>
+Photo: Norbert Miguletz
+```
+
+![Lauren Lee McCarthy — LAUREN (2017-)](img/Lauren-Lee-McCarthy_LAUREN_FKV.jpg)
+
+<br>
+
+> I attempt to become a human version of Amazon Alexa, a smart home intelligence for people in their own homes. The performance lasts several days. It begins with an installation of a series of custom designed networked smart devices (including cameras, microphones, switches, door locks, faucets, and other electronic devices). I then remotely watch over the person 24/7 and control all aspects of their home. I aim to be better than an AI because I can understand them as a person and anticipate their needs. The relationship that emerges falls in the ambiguous space between human-machine and human-human.
+
+<br>
+
+## Dries Depoorter — The Flemish Scrollers (2021-2025)
+
+[Project page](https://driesdepoorter.be/theflemishscrollers/)
+
+```{margin}
+Dries Depoorter — The Flemish Scrollers (2021-2025)<br>
+Custom server, bot, object detection, face detection, ffmpeg
+```
+
+![Dries Depoorter — The Flemish Scrollers (2021-2025)](img/DriesDepoorter_The-Flemish-Scrollers_1.jpg)
+
+<br>
+
+```{margin}
+Dries Depoorter — The Flemish Scrollers (2021-2025)<br>
+Custom server, bot, object detection, face detection, ffmpeg
+```
+
+![Dries Depoorter — The Flemish Scrollers (2021-2025)](img/DriesDepoorter_The-Flemish-Scrollers_2.jpg)
+
+<br>
+
+
+> Automatically tagging Belgian politician when they use their phone on the daily livestreams. With the help of AI. 
+>
+> Every meeting of the flemish government in Belgium is live streamed on a youtube channel. When a livestream starts the software is searching for phones and tries to identify a distracted politician. This is done with the help of AI and face recognition. The video of the distracted politician are then posted to a Twitter and Instagram account with the politician tagged.
+
+<br>
+
+## Lily McCraith – Now Make This (2020)
+
+[Project page](https://lilymccraith.net/Now-Make-This-1)
+
+> What happens when designers follow machine generated instructions? This AI device generates sets of instructions for projects. Prototyped using Arduino and a thermal receipt printer, and AI text generated using GPT2 Neural Network.
+
+```{margin}
+Lily McCraith – Now Make This (2020)<br>AI, Arduino, Prototyping
+
+```
+![Lily McCraith – Now Make This (2020)](img/LilyMcCraith_Now-Make-This_1.jpg)
+
+<br>
+
+```{margin}
+Lily McCraith – Now Make This (2020)<br>AI, Arduino, Prototyping
+
+```
+![Lily McCraith – Now Make This (2020)](img/LilyMcCraith_Now-Make-This_2.jpg)
+
+<br>
