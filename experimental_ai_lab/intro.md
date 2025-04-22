@@ -116,3 +116,16 @@ Lily McCraith – Now Make This (2020)<br>AI, Arduino, Prototyping
 ![Lily McCraith – Now Make This (2020)](img/LilyMcCraith_Now-Make-This_2.jpg)
 
 <br>
+
+## Lasse Scherffig, Thomas Hawranke — Colossal Cave Adventure — The Movie (2022)
+
+[Project page](http://lassescherffig.de/projects/colossal-cave-adventure-the-movie/)
+
+```{margin}
+Lasse Scherffig, Thomas Hawranke — Colossal Cave Adventure — The Movie (2022)<br>
+AI, custom software
+```
+
+![Lasse Scherffig, Thomas Hawranke — Colossal Cave Adventure — The Movie (2022)](img/Colossal_Cave_Adventure.png)
+
+<br>
