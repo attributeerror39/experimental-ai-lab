@@ -128,4 +128,6 @@ AI, custom software
 
 ![Lasse Scherffig, Thomas Hawranke — Colossal Cave Adventure — The Movie (2022)](img/Colossal_Cave_Adventure.png)
 
+> The project deals with one of the first text-based adventure games in computer game history. Colossal Cave Adventure was developed by Will Crowther in 1976 and is based on the spatial presence of Mammoth Cave in Kentucky. Crowther’s game completely avoids a visual representation of the cave – instead, text input and text response shape the cave in the player’s individual perception. The AI-based animated film is approximately 55 minutes long. The camera constantly moves downwards, digging through geological layers and exposing new cave spaces again and again. Every eight seconds, the AI system receives a new textual description. These descriptions are taken from the 1976 source code of the game, which contains a total of 379 inputs ranging from narrative descriptions of nature, to jargon from the vocabulary of speleologists, to single words meaning an object, a compass direction, or an exclamation.
+
 <br>
