@@ -97,7 +97,7 @@ Custom server, bot, object detection, face detection, ffmpeg
 
 ## Lily McCraith – Now Make This (2020)
 
-[Project page](https://lilymccraith.net/Now-Make-This-1)
+[Artist page](https://lilymccraith.net)
 
 > What happens when designers follow machine generated instructions? This AI device generates sets of instructions for projects. Prototyped using Arduino and a thermal receipt printer, and AI text generated using GPT2 Neural Network.
 
@@ -114,6 +114,14 @@ Lily McCraith – Now Make This (2020)<br>AI, Arduino, Prototyping
 
 ```
 ![Lily McCraith – Now Make This (2020)](img/LilyMcCraith_Now-Make-This_2.jpg)
+
+<br>
+
+```{margin}
+Lily McCraith – Now Make This (2020)<br>AI, Arduino, Prototyping
+
+```
+![Lily McCraith – Now Make This (2020)](img/LilyMcCraith_Now-Make-This_Diagram.jpg)
 
 <br>
 
