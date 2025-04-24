@@ -6,6 +6,9 @@
 
 ![Prompt Weighting](images/prompt_weights.png)
 
+![Combining Embeddings](images/combining_embeddings.png)
+
+
 ![IP Adapter](images/ipadapter.png)
 
 ## Image to Image
