@@ -3,7 +3,7 @@
 ComfyUI is an open-source, node-based interface for Stable Diffusion and other generative-AI models.
 Other than most interfaces for generating images, it exposes the underlying pipeline of componants that make image-generation possible. Due to it's flexible node-interface it enables recomposition of existing models and architectures. 
 
-![https://www.comfy.org/] Link to the official Website.
+[https://www.comfy.org/] Link to the official Website.
 
 ## Installing ComfyUI
 
