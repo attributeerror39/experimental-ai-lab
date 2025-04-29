@@ -7,7 +7,7 @@ Other than most interfaces for generating images, it exposes the underlying pipe
 
 ## Installing ComfyUI
 
-1. Download the following notebook
+1. Download the following notebook [ComfyUI Cloud Install](https://github.com/attributeerror39/experimental-ai-lab/blob/master/experimental_ai_lab/image_generation_embeddings/Comfy%20Cloud%20Install.ipynb)
 2. Upload it to your server instance ([jupyter.kittegg.org](https://jupyter.kitegg.de/))
 3. Double-Click the notebook to open it
 4. Run the two cells using (ctrl/cmd + ENTER)
