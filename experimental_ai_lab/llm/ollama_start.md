@@ -21,6 +21,10 @@ We'll start with Mistral (7B) https://ollama.com/library/mistral
 ollama run mistral
 ```
 
+## System Prompt 
+
+
+## Modelfile 
 
 TODO:
 

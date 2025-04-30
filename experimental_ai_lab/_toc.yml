@@ -11,14 +11,25 @@ chapters:
     - file: image_generation_embeddings/image_generation_context
     - file: image_generation_embeddings/image_generation_scoring
     - file: image_generation_embeddings/image_generation_prompting
-# - file: llm 
+# - file: llm/llm_intro
 #   sections: 
-#     - file: ollama_start
-#     - file: unsloth_dreams
-#     - file: dataset_dreams
-#     - file: dataset_beer
-#     - file: unsloth_beer
-#     - file: ollama_adapter
-#     - file: unsloth_manifesto
-#     - file: dataset_manifesto
-# - file: interface
+#     - file: llm/ollama_start
+#     - file: llm/unsloth_dreams
+#     - file: llm/dataset_dreams
+#     - file: llm/dataset_beer
+#     - file: llm/unsloth_beer
+#     - file: llm/ollama_adapter
+#     - file: llm/unsloth_manifesto
+#     - file: llm/dataset_manifesto
+# - file: interface/interface_intro
+#   sections:
+#     - file: interface/ollama_ui_dreams
+#     - file: interface/gradio_rag
+- file: tokens_prompting/intro
+  sections:
+    - file: tokens_prompting/1
+    - file: tokens_prompting/2
+- file: agents/intro
+  sections:
+    - file: agents/llama_index_rag
+    - file: agents/huggingface_smolagent(?)
