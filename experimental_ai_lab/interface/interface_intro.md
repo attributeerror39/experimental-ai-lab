@@ -1,6 +1,6 @@
 # Interface
 
-## Examples 
+## Examples
 
 ### Mattis Kuhn – neither host nor guest (2024/25)
 
@@ -11,11 +11,16 @@
 > The form of archaic friendliness is simulated in a large language model (LLM) and realized through an interface of simultaneity in the interaction between human and LLM. The project seeks forms of a human-machine relationship that is less characterized by thinking in distinctions, that aims less at control and domination by means of technology, but sees technology as part of an aesthetic existence. 
 
 ```{margin}
-Lily McCraith – Now Make This (2020)<br>AI, Arduino, Prototyping
+Mattis Kuhn – neither host nor guest (2024/25)<br>LLM (Mistral Small), system prompt, custom web interface
 
 ```
-![Lily McCraith – Now Make This (2020)](img/LilyMcCraith_Now-Make-This_1.jpg)
+![Mattis Kuhn – neither host nor guest (2024/25)](img/mattis-kuhn_neither-host-nor-guest_interface_3.png)
 
+```{margin}
+Mattis Kuhn – neither host nor guest (2024/25)<br>LLM (Mistral Small), system prompt, custom web interface
+
+```
+![Mattis Kuhn – neither host nor guest (2024/25)](img/mattis-kuhn_neither-host-nor-guest.gif)
 
 ## Frameworks
 
@@ -30,3 +35,16 @@ Lily McCraith – Now Make This (2020)<br>AI, Arduino, Prototyping
 https://docs.streamlit.io/develop/tutorials/chat-and-llm-apps/build-conversational-apps
 
 [ollama-ui](https://github.com/ollama-ui/ollama-ui) — simple http interface, good for customization
+
+
+https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/
+
+https://docs.streamlit.io/get-started/fundamentals/main-concepts
+
+
+
+
+https://docs.llamaindex.ai/en/stable/module_guides/deploying/chat_engines/
+
+https://huggingface.co/docs/chat-ui/index
+
