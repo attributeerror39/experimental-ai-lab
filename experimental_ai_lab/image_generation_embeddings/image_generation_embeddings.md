@@ -1,6 +1,6 @@
 # Image generation & Embeddings
 
-# Quick-reference: Key Terms in Diffusion Models
+## Quick-reference: Key Terms in Diffusion Models
 
 - **Image**  
   A 2-D grid of colour numbers; the finished picture we want the model to output.
