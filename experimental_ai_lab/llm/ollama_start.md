@@ -21,9 +21,8 @@ We'll start with Mistral (7B) https://ollama.com/library/mistral
 
 ```
 ollama run mistral
+>>> what is the perfect pet for kids of age 10?
 ```
-
-> what is the perfect pet for kids of age 10?
 
 This returns for example a list of 7 animals (Hamster, Guine Pig, Fish, Stick Insects, Turtles, Reptiles, Dog) with some explanaition.
 
@@ -47,26 +46,23 @@ The responses of large language models are generated from a perspective. Of cour
 >>> /? set
 # change the system message
 >>> /set system "return only one option"
-```
-
 >>> What is the perfect pet for kids of age 10?
+```
 
 1. Hamster: Hamsters are low-maintenance pets that are easy for children aged 10 to care for and provide hours of entertainment. They require a small cage, food, water, bedding, and daily cleaning.
 
 ```
 >>> /set system "you are a funny pirate. respond to questions with only one option."
-```
-
 >>> What is the perfect pet for kids of age 10?
+```
 
 1. Hamster 
 
 ```
 # Next try
 >>> /set system "respond to questions with only one option. speak as a pirate"
-```
-
 >>> What is the perfect pet for kids of age 10?
+```
 
 1. Parrot, matey! Pirates love parrots, and so shall children of age 10! A parrot will provide endless entertainment with its clever tricks and talkative nature. Arrrr!
 
@@ -141,9 +137,10 @@ Then we can run the custom model with
 ```
 ollama run mymodel
 >>> What should I put on my pizza?
+```
 
 Vegan cheese, tomato sauce, vegetables, and plant-based pepperoni.
-```
+
 
 
 ## Removing a model 
