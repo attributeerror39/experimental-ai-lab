@@ -20,7 +20,13 @@ PARAMETER stop "[INST]"
 PARAMETER stop "[/INST]"faces
 ```
 
-Create a new file `modelfile_dreams` in the parent directory of `lora_model_dreams` with the following changes:
+Create a new file `modelfile.txt` in the parent directory of `lora_model_dreams`:
+
+```
+ollama show --modelfile mistral > modelfile.txt
+```
+
+Change it as following (make changes to FROM and ADAPTER):
 
 ```
 FROM mistral:instruct
@@ -54,7 +60,7 @@ PARAMETER stop [/INST]
 Build the model 
 
 ```
-ollama create dreams -f modelfile_dreams
+ollama create dreams -f modelfile.txt
 
 # List models
 ollama list

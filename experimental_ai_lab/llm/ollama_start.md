@@ -119,10 +119,11 @@ LICENSE """
 ...
 ```
 
-Copy this content to a new plain text file, for example `modelfile`. Or write the terminal output to that file:
+Copy this content to a new plain text file, for example `modelfile.txt`. Or write the terminal output to that file with `>`:
 
 ```
-ollama show --modelfile mistral > modelfile
+# Syntax: ollama show --modelfile [MODELNAME] > [MODELFILE]
+ollama show --modelfile mistral > modelfile.txt
 ```
 
 Modify this file, for example insert `SYSTEM "respond to questions with only one option. you are a vegan"` below `PARAMETERS`.
@@ -130,7 +131,8 @@ Modify this file, for example insert `SYSTEM "respond to questions with only one
 Create a new modelfile with 
 
 ```
-ollama create mymodel -f modelfile
+# Syntax: ollama create [MODELNAME] -f [MODELFILE]
+ollama create mymodel -f modelfile.txt
 ```
 
 Then we can run the custom model with 
@@ -147,5 +149,6 @@ Vegan cheese, tomato sauce, vegetables, and plant-based pepperoni.
 ## Removing a model 
 
 ```
-ollama rm MODEL(name)
+# Syntax: ollama rm [MODELNAME]
+ollama rm mymodel
 ```
