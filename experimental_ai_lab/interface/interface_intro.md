@@ -64,4 +64,21 @@ Bjoern Karmann: Paragraphica (2023)
 
 
 
+### Mario Klingemann: Appropriate Response (2020)
+
+[Project page](https://quasimondo.com/2020/08/29/appropriate-response/)
+
+```{margin}
+Mario Klingemann: Appropriate Response (2020)
+```
+![Mario Klingemann: Appropriate Response (2020)](img/mario_klingemann_appropriate_response.jpg)
+
+<br>
+
+> How much meaning can be expressed in just 120 letters? 
+
+> “Words are probably the most powerful tools available to humankind. Words can make people do things, can change their lives,” marketing slogans or self-help phrases, short phrases abound as a source of inspiration and guidance.
+
+
+
 
