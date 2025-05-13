@@ -38,6 +38,7 @@ The responses of large language models are generated from a perspective. Of cour
 - customized output: "Return your response in JSON-format", "Write only a few sentences", "Return just one option", "Return python code"
 - narrowing down the expertise: "If a user asks about ..., answer politely that you can't answer that question."
 
+[Example prompts by Anthropic AI](https://docs.anthropic.com/en/release-notes/system-prompts#feb-24th-2025)
 
 ```
 # open the help documentation inside the ollama chat
