@@ -142,7 +142,7 @@ We can use the browsers internal text-to-speech functionality using the [SpeakIt
 Paste the following snippet at the end of your `index.html` just after `<script src="chat.js"></script>`:
 
 ```
-  <div class="m-2">
+  <div class="m-2 position-fixed">
     <label for="language-select" class="me-2" style="font-size: normal;">
       Language:
     </label>
@@ -167,7 +167,8 @@ Paste the following snippet at the end of your `index.html` just after `<script 
           const opt = document.createElement('option');
           opt.value = voice.lang;
           opt.dataset.voice = voice.name;
-          opt.textContent = `(${voice.lang}) – ${voice.name}`;
+          opt.textContent = `${voice.lang} – ${voice.name}`;
+          console.log(`${voice.lang} – ${voice.name}`)
           languageSelect.append(opt);
         });
       } catch (e) {
