@@ -59,7 +59,7 @@ conda activate lab
 
 ### Install external packages with pip
 
-We can use Python's package installer **pip** to install external libraries like [https://pypi.org/project/jupyter/](jupyter)
+We can use Python's package installer **pip** to install external libraries like [jupyter](https://pypi.org/project/jupyter/)
 
 ```shell
 # important: activate your environment first
@@ -137,7 +137,7 @@ Modify the style of the page (`chat.css`) by hand or with your favorite chatbot.
 
 ## Adding Text-to-Speech
 
-We can use the browsers internal text-to-speech functionality using the [https://mobilepadawan.github.io/Speakit-JS/](SpeakIt) library in JavaScript.
+We can use the browsers internal text-to-speech functionality using the [SpeakIt](https://mobilepadawan.github.io/Speakit-JS/) library in JavaScript.
 
 Paste the following snippet at the end of your `index.html` just after `<script src="chat.js"></script>`:
 
