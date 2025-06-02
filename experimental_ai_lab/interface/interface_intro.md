@@ -62,8 +62,6 @@ Bjoern Karmann: Paragraphica (2023)
 
 > Paragraphica is a context-to-image camera that uses location data and artificial intelligence to visualize a "photo" of a specific place and moment. The camera exists both as a physical prototype and a virtual camera that you can try. 
 
-
-
 ### Mario Klingemann: Appropriate Response (2020)
 
 [Project page](https://quasimondo.com/2020/08/29/appropriate-response/)
@@ -79,6 +77,4 @@ Mario Klingemann: Appropriate Response (2020)
 
 > “Words are probably the most powerful tools available to humankind. Words can make people do things, can change their lives,” marketing slogans or self-help phrases, short phrases abound as a source of inspiration and guidance.
 
-
-
-
+See the [Landsberger Poesieautomat](https://de.wikipedia.org/wiki/Landsberger_Poesieautomat) by Hans Magnus Enzensberger.
