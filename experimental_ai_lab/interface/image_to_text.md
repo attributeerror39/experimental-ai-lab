@@ -1,3 +1,0 @@
-# Artworks
-
-## Labels Captions

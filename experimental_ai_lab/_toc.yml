@@ -24,6 +24,8 @@ chapters:
 - file: interface/interface_intro
   sections:
   - file: interface/ollama_ui_dreams
+- file: imgtotext/intro
+  sections:
   - file: interface/image_to_text
   - file: interface/visiontext
 #     - file: interface/gradio_rag
