@@ -26,7 +26,7 @@ chapters:
   - file: interface/ollama_ui_dreams
 - file: imgtotext/intro
   sections:
-  - file: imgtotext/image_to_text
+  - file: imgtotext/codesamples
   - file: imgtotext/visiontext
 #     - file: interface/gradio_rag
 # - file: tokens_prompting/intro
