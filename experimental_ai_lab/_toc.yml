@@ -28,6 +28,7 @@ chapters:
   sections:
   - file: imgtotext/codesamples
   - file: imgtotext/visiontext
+- file: video/video_input_artworks
 #     - file: interface/gradio_rag
 # - file: tokens_prompting/intro
 #   sections:
